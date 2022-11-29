@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 1.3 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| JavaScript Loops | 1.3 | [Link](https://learn.codethedream.org/dorado-lesson-1-3/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to incorporate loops into functions based on described parameters. 
 
 ## Sample Mentor Session 
 
@@ -38,15 +36,11 @@ While students are responding to the check-in questions, take attendance.
 
 ### :mag: Content Overview 
 
-Let's review some key terms and concepts from this week's lesson materials: 
- 
- - TBD
- - TBD 
- - TBD 
- 
+Students have read [this article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code) on loops. It may be useful to discuss several code examples from the article with students.  
+
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +54,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students will continue in the same Project Odin article as they learn about arrays. 
 
 ### :nerd_face: Mentor Session Report Form 
 
