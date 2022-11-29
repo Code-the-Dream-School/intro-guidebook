@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 1.5 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| JavaScript Objects | 1.5 | [Link](https://learn.codethedream.org/dorado-lesson-1-5/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to create functions that take one array parameter and return another parameter based on objects.
 
 ## Sample Mentor Session 
 
@@ -40,13 +38,15 @@ While students are responding to the check-in questions, take attendance.
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
+- Objects 
+  - Dot notation 
+  - Bracket notation 
+  - Set the value of object members 
+  - Constructors  
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +60,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students will get started with GitHub. This is typically a challenging topic for students – you might see a higher number of questions than usual. 
 
 ### :nerd_face: Mentor Session Report Form 
 
