@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 1.1 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| JavaScript Basics | 1.1 | [Link](https://learn.codethedream.org/dorado-lesson-1-1/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,9 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
+**Learning Objective:** Students will be able to show a completed assignment making use of variables and conditional statements. 
 
-WRITE OVERVIEW TEXT HERE 
+Note: One of the most important goals of your first few mentors sessions should be establishing rapport with your students. If you establish a safe learning environment, students will feel comfortable asking questions and taking risks. Show students that it's ok to get answers wrong – some mentors even purposefully do part of the lesson incorrectly to show what it's like to correct mistakes. 
 
 ## Sample Mentor Session 
 
@@ -39,14 +39,24 @@ While students are responding to the check-in questions, take attendance.
 ### :mag: Content Overview 
 
 Let's review some key terms and concepts from this week's lesson materials: 
- 
- - TBD
- - TBD 
- - TBD 
+ - Variables 
+ - Constants 
+ - Replit fundamentals
+    - Files
+    - Editor
+    - Markdown
+    - Shell
+    - Index.js
+    - Console 
+
+A few potential discussion points from this week's material: 
+ - [Thinking like a programmer](https://github.com/Code-the-Dream-School/intro-to-programming-borr/wiki/Foundations:-Problem-Solving)
+ - Best practice for naming variables 
+ - Using math in JavaScript 
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +70,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students will take their first look at JavaScript functions. 
 
 ### :nerd_face: Mentor Session Report Form 
 
