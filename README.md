@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 3.1 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| How the Web Works | 3.1 | [Link](https://learn.codethedream.org/dorado-lesson-3-1/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,9 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
+**Learning Objective:** Students will be able to create a personal portfolio section in their repositories. 
 
-WRITE OVERVIEW TEXT HERE 
+**Note**: At this point, all student assignments will be in GitHub. If students are behind, encourage them to book by-appointment sessions to get caught up on the GitHub material. 
 
 ## Sample Mentor Session 
 
@@ -40,10 +40,16 @@ While students are responding to the check-in questions, take attendance.
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
- 
+- Intro to the Internet 
+- Packets 
+- Web page, web server, search engine 
+- Clients 
+- Servers
+- IP addresses 
+- DNS Servers 
+
+[Wireframe exercise](https://learn.codethedream.org/intro-to-programming-wireframe-exercise/)
+
 ### :notebook: Assignment Overview
 
 Let's take a look at the directions for this week's assignment: [XXX](XXX)
@@ -60,7 +66,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students add HTML to their personal portfolio projects.  
 
 ### :nerd_face: Mentor Session Report Form 
 
