@@ -2,7 +2,7 @@
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| JavaScript Functions | 1.2 | [Link](https://learn.codethedream.org/dorado-lesson-1-2/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to apply their knowledge of functions to write basic JavaScript functions. 
 
 ## Sample Mentor Session 
 
@@ -40,13 +38,17 @@ While students are responding to the check-in questions, take attendance.
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
+ - Functions 
+ - Functions vs. Methods  
+ - Function parameters 
+ - Function scope and conflicts 
+ - Default parameters 
+
+More advanced students might be interested in learning about [arrow functions](https://javascript.info/arrow-functions-basics). 
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +62,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students will learn about loops. 
 
 ### :nerd_face: Mentor Session Report Form 
 
