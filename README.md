@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 4.2 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| JavaScript and the DOM | 4.2 | [Link](https://learn.codethedream.org/dorado-js-and-dom/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to create a JavaScript file in a project directory; add footer, copyright, and skills sections to their personal portfolio.
 
 ## Sample Mentor Session 
 
@@ -39,14 +37,33 @@ While students are responding to the check-in questions, take attendance.
 ### :mag: Content Overview 
 
 Let's review some key terms and concepts from this week's lesson materials: 
- 
- - TBD
- - TBD 
- - TBD 
+
+- DOM Overview
+  - Node vs Element 
+  - Selectors 
+  - Altering and targeting DOM nodes
+  - Nodelist vs. Array of nodes
+  - Bubbling 
+- Developer Tools 
+  - View and change the DOM
+  - Debug JavaScript
+  - Use breakpoints
+  - View the Resources Panel to check the scripts running on a website
+  - Add CSS Pseudostate to a Class
+  - View CSS Properties in Alphabetical Order
+  - View and edit the Box Model of any Element in Chrome DevTools
+  - View a page in print mode
+  - Enable or Disable CSS Classes
+  - Simulate media queries in Device Mode
+- Understanding Errors
+  - Syntax Errors
+  - Reference Errors
+  - Type Errors
+  - Resolving Errors
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +77,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students will practice more with the DOM and add a form to their portfolio project. 
 
 ### :nerd_face: Mentor Session Report Form 
 
