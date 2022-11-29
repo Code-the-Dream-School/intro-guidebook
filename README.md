@@ -41,14 +41,13 @@ While students are responding to the check-in questions, take attendance.
 Let's review some key terms and concepts from this week's lesson materials: 
  
 - Intro to the Internet 
-- Packets 
-- Web page, web server, search engine 
-- Clients 
-- Servers
-- IP addresses 
-- DNS Servers 
-
-[Wireframe exercise](https://learn.codethedream.org/intro-to-programming-wireframe-exercise/)
+  - Packets 
+  - Web page, web server, search engine 
+  - Clients 
+  - Servers
+  - IP addresses 
+  - DNS Servers 
+- [Wireframe exercise](https://learn.codethedream.org/intro-to-programming-wireframe-exercise/)
 
 ### :notebook: Assignment Overview
 
