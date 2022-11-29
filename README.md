@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 2.1 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| Git Basics | 2.1 | [Link](https://learn.codethedream.org/dorado-git-basics/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to create and clone a repository, commit changes, and submit a pull request.  
 
 ## Sample Mentor Session 
 
@@ -40,13 +38,20 @@ While students are responding to the check-in questions, take attendance.
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
+- Theoretical foundations 
+  - Text editors 
+  - Command line 
+  - Introduction to Git
+    - Version control 
+    - Git vs. GitHub
+- Putting theory to practice 
+  - Setting up Git
+  - Git workflow 
+  - Git best practices 
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +65,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, we'll change direction again with an overview of how the Web works. 
 
 ### :nerd_face: Mentor Session Report Form 
 
