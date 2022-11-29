@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 1.4 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| Arrays | 1.3 | [Link](https://learn.codethedream.org/dorado-lesson-1-4/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to write functions using simple array parameters. 
 
 ## Sample Mentor Session 
 
@@ -39,14 +37,17 @@ While students are responding to the check-in questions, take attendance.
 ### :mag: Content Overview 
 
 Let's review some key terms and concepts from this week's lesson materials: 
- 
- - TBD
- - TBD 
- - TBD 
+
+- Arrays
+  - Array elements 
+  - Array properties and methods 
+  - Looping array elements 
+  - Associative arrays 
+  - Arrays vs. objects  
  
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +61,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week is students' last week working with Replit. The materials and assignment will cover JavaScript objects. 
 
 ### :nerd_face: Mentor Session Report Form 
 
