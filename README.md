@@ -1,4 +1,4 @@
-# Lesson XXX Teaching Notes 
+# Lesson 1.2 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
