@@ -1,8 +1,8 @@
-# Lesson XXX Teaching Notes 
+# Lesson 4.1 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| XXX | XXX | [Link](https://learn.codethedream.org/) |
+| HTML Basics | 4.1 | [Link](https://learn.codethedream.org/dorado-html-basics/) |
 
 ## Outline 
 - Overview
@@ -11,9 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** XXX
-
-WRITE OVERVIEW TEXT HERE 
+**Learning Objective:** Students will be able to create a personal portofio section in their repositories. 
 
 ## Sample Mentor Session 
 
@@ -40,13 +38,29 @@ While students are responding to the check-in questions, take attendance.
 
 Let's review some key terms and concepts from this week's lesson materials: 
  
- - TBD
- - TBD 
- - TBD 
- 
+- HTML & CSS Intro 
+- Elements and Tags
+  - [List of HTML tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- HTML Boilerplate 
+  - Creating an HTML File
+  - DOCTYPE
+  - HTML Element 
+  - VSCode Shortcut (`index.html` and `!`) 
+- HTML and Text
+  - Paragraphs 
+  - Headings
+  - Strong Element
+  - Em Element
+  - Nesting and Indentation
+  - Comments
+  - Ordered and Unordered lists 
+- Anchor Elements
+- Links 
+- Images 
+
 ### :notebook: Assignment Overview
 
-Let's take a look at the directions for this week's assignment: [XXX](XXX)
+TBD
 
 ### :thinking: Questions 
 
@@ -60,7 +74,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-XXX
+Next week, students will learn about making changes to the DOM. 
 
 ### :nerd_face: Mentor Session Report Form 
 
