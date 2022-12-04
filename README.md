@@ -72,8 +72,8 @@ Next week, we'll change direction again with an overview of how the Web works.
 Please remember to fill out the [Mentor Session Report Form](https://airtable.com/shrp0jjRtoMyTXRzh) at the end of the session.
 
 
-### :100: Assignment Rubric 
-[Assignment](!https://github.com/Code-the-Dream-School/intro-to-programming-dorado/blob/main/instructions/section-3/lesson-3-1.md)
+## :100: Assignment Rubric 
+[Assignment](https://github.com/Code-the-Dream-School/intro-to-programming-dorado/blob/main/instructions/section-3/lesson-3-1.md)
 
 Check the student has created a PR to submit their assignment:
 - [ ] [Created a PR](https://github.com/Code-the-Dream-School/intro-to-programming-dorado/blob/main/instructions/common/how-to-pull-request.md)
