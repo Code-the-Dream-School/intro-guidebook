@@ -88,10 +88,10 @@ Check the student has created a PR to submit their assignment:
 - [ ] [Created a PR](https://github.com/Code-the-Dream-School/intro-to-programming-dorado/blob/main/instructions/common/how-to-pull-request.md)
 
 Check student's Personal Site for:
- - [ ] Document starts with `<!DOCTYPE html>` tag at top
- - [ ] Document contains `<head>` element as first element
-  - [ ] `<head>` contains `<title>` tag
- - [ ] Document contains a `<body>` element
+  - [ ] Document starts with `<!DOCTYPE html>` tag at top
+  - [ ] Document contains `<head>` element as first element
+    - [ ] `<head>` contains `<title>` tag
+  - [ ] Document contains a `<body>` element
   - [ ] Each of the `About`, `Experience`, and `Connect`sections follow the form:
     - [ ] Wrapped in `<section>` element
     - [ ] Heading in `<h1>` element 
