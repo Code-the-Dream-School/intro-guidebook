@@ -1,8 +1,8 @@
-# Lesson 1.4 Teaching Notes 
+# Lesson 1.5 Teaching Notes 
 
 | **Topic** | **Week** | **Class Website** |
 | :---: | :---: | :---: |
-| Arrays | 1.3 | [Link](https://learn.codethedream.org/dorado-lesson-1-4/) |
+| JavaScript Objects | 1.5 | [Link](https://learn.codethedream.org/dorado-lesson-1-5/) |
 
 ## Outline 
 - Overview
@@ -11,7 +11,7 @@
 
 ## Overview 
 
-**Learning Objective:** Students will be able to write functions using simple array parameters. 
+**Learning Objective:** Students will be able to create functions that take one array parameter and return another parameter based on objects.
 
 ## Sample Mentor Session 
 
@@ -37,13 +37,12 @@ While students are responding to the check-in questions, take attendance.
 ### :mag: Content Overview 
 
 Let's review some key terms and concepts from this week's lesson materials: 
-
-- Arrays
-  - Array elements 
-  - Array properties and methods 
-  - Looping array elements 
-  - Associative arrays 
-  - Arrays vs. objects  
+ 
+- Objects 
+  - Dot notation 
+  - Bracket notation 
+  - Set the value of object members 
+  - Constructors  
  
 ### :notebook: Assignment Overview
 
@@ -61,7 +60,7 @@ Use this time to answer students questions from the lesson materials and assignm
 
 ### :telescope: Looking Ahead 
 
-Next week is students' last week working with Replit. The materials and assignment will cover JavaScript objects. 
+Next week, students will get started with GitHub. This is typically a challenging topic for students – you might see a higher number of questions than usual. 
 
 ### :nerd_face: Mentor Session Report Form 
 
