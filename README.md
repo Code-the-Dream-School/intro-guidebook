@@ -68,6 +68,23 @@ Next week, students will learn about loops.
 
 Please remember to fill out the [Mentor Session Report Form](https://airtable.com/shrp0jjRtoMyTXRzh) at the end of the session.
 
+## :100: Assignment Rubric 
+[Assignment](https://replit.com/@CodeTheDream/Javascript-Functions)
+
+Run `npm test` for automated tests:
+- [ ] All tests pass
+
+Check individual questions for styling and implementation:
+- [ ] Question 1
+- [ ] Question 2
+- [ ] Question 3
+- [ ] Question 4
+- [ ] Question 5
+- [ ] Question 6
+- [ ] Question 7
+- [ ] Question 8
+
+
 ## Common Issues 
 
 TBD
