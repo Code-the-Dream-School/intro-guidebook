@@ -60,6 +60,21 @@ Next week, students will continue in the same Project Odin article as they learn
 
 Please remember to fill out the [Mentor Session Report Form](https://airtable.com/shrp0jjRtoMyTXRzh) at the end of the session.
 
+
+## :100: Assignment Rubric 
+[Assignment](https://replit.com/@CodeTheDream/Javascript-Functions-2-Loops)
+
+Run `npm test` for automated tests:
+- [ ] All tests pass
+
+Check individual questions for styling and implementation:
+- [ ] Question 1
+- [ ] Question 2
+- [ ] Question 3
+- [ ] Question 4
+- [ ] Question 5
+
+
 ## Common Issues 
 
 TBD
