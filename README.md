@@ -83,6 +83,35 @@ Next week, students will practice more with the DOM and add a form to their port
 
 Please remember to fill out the [Mentor Session Report Form](https://airtable.com/shrp0jjRtoMyTXRzh) at the end of the session.
 
+## :100: Assignment Rubric 
+[Assignment](https://github.com/Code-the-Dream-School/intro-to-programming-dorado/blob/main/instructions/section-4/lesson-4-2.md)
+
+Check the student has created a PR to submit their assignment:
+- [ ] [Created a PR](https://github.com/Code-the-Dream-School/intro-to-programming-dorado/blob/main/instructions/common/how-to-pull-request.md)
+
+Check student's repository for:
+- [ ] Created an `index.js` file
+- [ ] Updated `index.html` file
+  - [ ] Linked the `js` file with a `<script>` tag at the bottom of the `<body>`
+  - [ ] Added an empty `<footer>` tag at the bottom of the `<body>`
+  - [ ] Above the `Connect` section, added `<section>` tag with an id of `skill`
+  - [ ] Inside the skill `<section>`, added `<h2>` with content `Skills`
+  - [ ] Inside the skill `<section>`, added an empty `<ul>`
+- [ ] Dynamically add a copy right footer using `index.js`
+  - [ ] Store Date in var `today`
+  - [ ] Store current year in var `thisYear`
+  - [ ] Store footer element in var `footer` (using DOM Selection)
+  - [ ] Create new `p` element and store in var `copyright`
+  - [ ] Set innerHtml of `copyright` to the student's name and current year
+  - [ ] Append the `copyright` paragraph the `footer` element (using DOM Manipulation)
+- [ ] Dynamically add skills using `index.js`
+  - [ ] Create a list var `skills` that contains the student's skills
+  - [ ] Select `#skills` section and store in var `skillsSection` (using DOM Selection)
+  - [ ] Create a `for loop` to iterate of the `skills` variable
+  - [ ] Inside loop, create a `<li>` element in var `skill` for each skill and set the innerHtml of `skill` to the current value in the loop
+  - [ ] Inside loop, append the `skill` variable to the `skillsList` element
+
+
 ## Common Issues 
 
 TBD
