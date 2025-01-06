@@ -6,8 +6,8 @@ Students will be able to explain the purpose and benefits of version control sys
 
 **Lesson Resources**
 
-  * [Explore lesson slides]()
-  * [Coding assignment rubric]()
+  * [Explore lesson slides](https://github.com/Code-the-Dream-School/intro-guidebook/blob/main/group-session-slides/CTD%20Intro%20Week%207%20-%20Intro%20to%20Git%20and%20IDEs.pdf)
+  * [Coding assignment rubric]() (TBD)
 
 ## Lesson Plan
 
