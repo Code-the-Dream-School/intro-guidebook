@@ -1,6 +1,6 @@
 ## Intro to Programming v4 Learning Objectives
 
-***Note**: Intro to Programming v5 was released in fall 2024 Please navigate to version 5's learning objectives.*
+***Note**: Intro to Programming v5 was released in fall 2024 Please navigate to [version 5's learning objectives](https://github.com/Code-the-Dream-School/intro-guidebook/blob/main/learning-objectives/intro-v5.md).*
 
 ### Lesson 01 – JavaScript Basics
 
