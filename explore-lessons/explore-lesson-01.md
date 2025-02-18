@@ -6,10 +6,10 @@ Students will develop the ability to apply foundational JavaScript concepts, inc
 
 *Note:* This week, we'll focus on data types and conditional statements in the "Explore" lesson and writing JavaScript functions in the "Apply" lesson. 
 
-**Lesson resources**
-
-* Explore lesson slides
-* Coding assignment rubric
+Links:
+  * [Lesson content](https://classes.codethedream.org/course/intro-to-programming-v5/kepler?week=1&lesson=JavaScript+Basics+and+Functions)
+  * [Assignment content](https://codesandbox.io/p/sandbox/lesson-1-javascript-basics-and-functions-2025-nrfx4t?file=/src/index.mjs:1,1)
+  * [Explore slides](https://github.com/Code-the-Dream-School/intro-guidebook/blob/main/group-session-slides/v5/CTD%20Intro%20Week%201%20-%20v5.pdf)
 
 ## Lesson Plan
 
