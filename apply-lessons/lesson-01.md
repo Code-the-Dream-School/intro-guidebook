@@ -4,9 +4,9 @@
 **Learning objective:** Students will develop the ability to apply foundational JavaScript concepts, including variables, data types, conditional statements, and functions, to create and troubleshoot basic programs; evaluate the use of arrow functions and traditional functions to understand their syntax, benefits, and appropriate use cases.
 
 Links: 
-  * [Lesson content](https://classes.codethedream.org/course/intro-to-programming-v5/kepler?week=2&lesson=JavaScript+Loops+and+Arrays)
-  * [Assignment content](https://codesandbox.io/p/sandbox/lesson-2-javascript-loops-and-arrays-2025-wzp3tj)
-  * [Explore slides](https://github.com/Code-the-Dream-School/intro-guidebook/blob/main/group-session-slides/CTD%20Intro%20Week%202.pdf)
+  * [Lesson content](https://classes.codethedream.org/course/intro-to-programming-v5/kepler?week=1&lesson=JavaScript+Basics+and+Functions)
+  * [Assignment content](https://codesandbox.io/p/sandbox/lesson-1-javascript-basics-and-functions-2025-nrfx4t?file=/src/index.mjs:1,1)
+  * [Explore slides](https://github.com/Code-the-Dream-School/intro-guidebook/blob/main/group-session-slides/v5/CTD%20Intro%20Week%201%20-%20v5.pdf)
 
 ## Warm Up (5 minutes)
 
