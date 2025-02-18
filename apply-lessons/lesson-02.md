@@ -1,7 +1,13 @@
 # Lesson 02: JavaScript Loops and Arrays
-**Explore Lesson Plan**
+**Apply Lesson Plan**
 
 **Learning objective:** Students will be able to construct efficient solutions to repetitive tasks by designing and implementing loops, particularly 'for' loops, while avoiding common pitfalls such as infinite loops; analyze and manipulate arrays to effectively organize and access data.
+
+Links: 
+  * [Lesson content](https://classes.codethedream.org/course/intro-to-programming-v5/kepler?week=2&lesson=JavaScript+Loops+and+Arrays)
+  * [Assignment content](https://codesandbox.io/p/sandbox/lesson-2-javascript-loops-and-arrays-2025-wzp3tj)
+  * [Explore slides](https://github.com/Code-the-Dream-School/intro-guidebook/blob/main/group-session-slides/CTD%20Intro%20Week%202.pdf)
+
 
 ## Warm Up (5 minutes)
 
