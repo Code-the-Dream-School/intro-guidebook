@@ -10,7 +10,20 @@ Links:
 
 ## Warm Up (5 minutes)
 
-TBD
+"Let's quickly remind ourselves how a function works by looking at a simple example:"
+
+```javascript
+// Function declaration
+function combineStrings(string1, string2) {
+  return string1 + " " + string2;
+}
+
+// Function call with arguments
+console.log(combineStrings("Hello", "World"));
+console.log(combineStrings("JavaScript", "Functions"));
+```
+
+"Today we'll be extending these function skills by combining them with loops and arrays to solve more complex problems."
 
 ## Direct Instruction: Assignment Overview (5-7 minutes)
 
