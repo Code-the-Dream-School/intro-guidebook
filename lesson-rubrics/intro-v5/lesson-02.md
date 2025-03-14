@@ -8,7 +8,6 @@ You can mark the student's assignment as complete if they:
 
 - [ ] Have forked the Replit file and submitted their assignment. 
 - [ ] `console.log` inputs properly for each of the 15 questions.
-- [ ] Use proper syntax and good JavaScript logic to solve each question. [Example answers link](https://replit.com/@CarlosMoncada5/Lesson-1-JavaScript-Basics#index.js). (Note that some student variation is expected!)
 - [ ] Use proper syntax and good JavaScript logic to answer the questions. Example outputs below. (Note that some student work variation is expected!)
 
 ## Sample Code
