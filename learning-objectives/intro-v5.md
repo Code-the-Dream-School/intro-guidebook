@@ -2,6 +2,16 @@
 
 ***Note**: Intro to Programming v5 is the current version of CTD's Intro to Programming curriculum.*
 
+### Overall Objectives
+
+In this course, students will:
+  * **Develop and apply full-stack web development skills using modern JavaScript tools and practices.**
+Students will build a solid foundation in core programming concepts, front-end development with HTML, CSS, and the DOM, asynchronous JavaScript, and version control with Git. They will integrate these skills to create interactive, responsive, and well-structured web applications.
+  * **Build confidence and fluency in real-world software development workflows and problem-solving.**
+Students will learn to use Git and GitHub for collaboration and version control, manage external packages with Node and NPM, and follow asynchronous programming patterns for API-driven development. Through project-based work, they will practice debugging, evaluating tradeoffs in code design, and delivering production-quality applications.
+
+### Week-by-Week Objectives
+
 | # | Lesson | Learning Objective |
 |----|----|----|
 |01|JS Basics and Functions|Students will develop the ability to apply foundational JavaScript concepts, including variables, data types, conditional statements, and functions, to create and troubleshoot basic programs; evaluate the use of arrow functions and traditional functions to understand their syntax, benefits, and appropriate use cases.|
