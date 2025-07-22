@@ -16,19 +16,10 @@ Rubrics and sample code for weekly coding assignments. These resources help assi
 - Provide specific, constructive feedback
 - Reference example solutions when reviewing code
 
-### Explore Session Materials (`/explore-sessions`)
-Resources for mentors leading the first-half-of-week "Explore" sessions, including:
-- Detailed lesson plans
-- Presentation slides
-- Demo code and examples
-- Discussion prompts and activities
-
-### Apply Session Materials (`/apply-sessions`)
-Resources for mentors leading the second-half-of-week "Apply" sessions, including:
-- Lesson plans focused on practical application
-- Assignment-specific guidance
-- Practice exercises and examples
-- Troubleshooting guides
+### Teaching Notes (`/group-lesson-plans` and `/group-lesson-slides`)
+CTD-created teaching notes and sample lesson plans for mentor sessions.
+- `/group-lesson-plans` contain sample demo code, check-for-understanding questions, and lesson plans for group sessions.
+- `/group-lesson-slides` contain sample slide decks for mentor sesssions.
 
 ## Contributing
 
