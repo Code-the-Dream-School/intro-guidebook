@@ -8,25 +8,25 @@ Welcome to Week 4 of the Intro to Programming course! This week, students are le
 
 Students are working in the `04-js-array-methods.js` assignment file.
 
-## 🧊 Warm-Up (5–10 minutes)
+## Warm-Up (5–10 minutes)
 
 Choose one:
 
-**👋 Relationship-Building**  
+**Relationship-Building**  
 - What’s a weird food combination you secretly enjoy?  
 - What’s a skill or topic you’ve gotten really curious about recently?
 
-**💡 Check for Understanding (from last week)**  
+**Check for Understanding (from last week)**  
 - What’s an object, and how is it different from an array?  
 - What does `this` refer to inside an object method?  
 - How do you write a method inside an object?
 
-## 🧭 Explore vs. Apply — Session Formats
+## Explore vs. Apply — Session Formats
 
 **Explore Sessions** → Walk through `forEach`, `map`, `filter`, and `find` with small examples  
 **Apply Sessions** → Debug student code, remix array method usage, or create challenges together
 
-## ⏱️ Sample Timing for 1-Hour Session
+## Sample Timing for 1-Hour Session
 
 | Time      | Activity                                 |
 |-----------|------------------------------------------|
@@ -35,14 +35,14 @@ Choose one:
 | 0:30–0:50 | Apply: live code + assignment help       |
 | 0:50–1:00 | Wrap-up + final questions                |
 
-## ❓ Check for Understanding (Ask 2–3)
+## Check for Understanding (Ask 2–3)
 
 - What’s a higher-order function?
 - How is `map` different from `forEach`?
 - What’s the purpose of a callback function?
 - When would you use `filter` vs. `find`?
 
-## 🧑‍🏫 Explore Prompts
+## Explore Prompts
 
 Use these to demonstrate key concepts live:
 
@@ -50,7 +50,7 @@ Use these to demonstrate key concepts live:
 - How does `map` create a new array? Let’s rewrite `addThreeToAll` together.
 - What happens if `filter` doesn’t find any matches? What does it return?
 
-🧑‍💻 *Mini-Demo Ideas:*  
+*Mini-Demo Ideas:*  
 
     // .forEach example
     const names = ["Rosa", "Luis", "Amina"];
@@ -74,16 +74,16 @@ Use these to demonstrate key concepts live:
 
 ---
 
-## 🛠️ Apply Prompts (Live Coding & Troubleshooting)
+## Apply Prompts (Live Coding & Troubleshooting)
 
-### 🔧 Assignment Hotspots
+### Assignment Hotspots
 * Forgetting to `return` values in `map` or `filter` functions  
 * Using `console.log()` inside `map()` when trying to return a new array  
 * Reusing old variables instead of using function parameters  
 * Confusing `filter` and `find` — they do very different things!  
 * Misunderstanding how to access object properties in array methods (like `user.username`)
 
-### ✅ Try This Live
+### Try This Live
 
 **Let’s walk through Q10 together — how can we make a flexible `pluck` function?**
 
@@ -95,19 +95,19 @@ Ask:
 * What happens if the key doesn’t exist in one object?
 * Can we rewrite this with a traditional `for` loop?
 
-## 💬 Engagement Strategies (for quiet groups)
+## Engagement Strategies (for quiet groups)
 
 * Write & Remix: “Try Q7 with `.map()` — now try it again using `.forEach()` instead.”
 * Fill in the Blank: “Here’s a broken `filter()` function — can you fix it?”
 * Pair Code Review: “In pairs, compare your answers to Q13 — what’s different?”
 
-## 💡 Optional Challenges
+## Optional Challenges
 
 - Write your own `.map()` function from scratch using a `for` loop
 - Add a `greeting` property to each user object using `.map()`
 - Create your own mini `.filter()` to remove falsy values
 
-✅ Mentor To-Do  
+## Mentor To-Do
 - [ ] Run a session using this guide  
 - [ ] Let students debug, explore, or build on their code  
 - [ ] Submit your [Mentor Session Report](https://airtable.com/appoSRJMlXH9KvE6w/shrp0jjRtoMyTXRzh)
