@@ -9,25 +9,25 @@ Welcome to Week 6 of the Intro to Programming course! This week, students are:
 
 Instead of a coding assignment, students are exploring Git concepts through **Oh My Git!** or **Learn Git Branching**.
 
-## 🧊 Warm-Up (5–10 minutes)
+## Warm-Up (5–10 minutes)
 
 Choose one:
 
-**👋 Relationship-Building**  
+**Relationship-Building**  
 - What’s a game or puzzle you’ve enjoyed that helped you learn something?  
 - Share a time you successfully solved a problem by visualizing it differently.  
 
-**💡 Check for Understanding (from last week)**  
+**Check for Understanding (from last week)**  
 - What does `git checkout -b branch-name` do?  
 - When might you merge a branch into `main`?  
 - What’s the difference between `git merge` and `git pull`?
 
-## 🧭 Explore vs. Apply — Session Formats
+## Explore vs. Apply — Session Formats
 
 **Explore Sessions** → Discuss branching and merging concepts, and demo these in a small repo. Show how they relate to collaborative workflows.
 **Apply Sessions** → Have students share screens while playing *Oh My Git!* or *Learn Git Branching*. Work through specific branching/merging challenges together.
 
-## ⏱️ Sample Timing for 1-Hour Session
+## Sample Timing for 1-Hour Session
 
 | Time      | Activity                                               |
 |-----------|--------------------------------------------------------|
@@ -36,14 +36,14 @@ Choose one:
 | 0:25–0:50 | Apply: game play, troubleshooting, group challenges    |
 | 0:50–1:00 | Wrap-up + reflections                                  |
 
-## ❓ Check for Understanding (Ask 2–3)
+## Check for Understanding (Ask 2–3)
 
 - Why use a branch instead of committing directly to `main`?  
 - What does a “merge conflict” mean, and how do you resolve it?  
 - How can branching help multiple people work on the same code base without overwriting each other’s work?  
 - What’s the difference between a fast-forward merge and a regular merge?
 
-## 🧑‍🏫 Explore Prompts
+## Explore Prompts
 
 Demonstrate with a simple repo:
 
@@ -79,20 +79,20 @@ Discuss:
 * Merge conflicts — not knowing how to edit and finalize the merge.  
 * Not understanding what `HEAD` refers to in Git diagrams.  
 
-### ✅ Try This Live
+### Try This Live
 **Scenario:** A student tries to merge two branches and gets a conflict. Walk them through:  
 1. Viewing the conflict in the file.  
 2. Editing to keep the desired changes.  
 3. Marking the conflict resolved with `git add`.  
 4. Completing the merge with `git commit`.
 
-## 💬 Engagement Strategies (for quiet groups)
+## Engagement Strategies (for quiet groups)
 
 - **Branch Challenge:** In pairs, create two branches that each make a change to the same file, then intentionally cause and resolve a merge conflict.  
 - **Visual Guessing Game:** Show a Git graph and ask what commands were run to get there.  
 - **Game Race:** Who can complete the first three levels of *Learn Git Branching* the fastest?
 
-## 💡 Optional Challenges
+## Optional Challenges
 
 - Complete all beginner levels in *Learn Git Branching*.  
 - In *Oh My Git!*, complete one challenge involving a merge conflict.  
