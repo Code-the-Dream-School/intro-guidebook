@@ -2,7 +2,7 @@
 
 | Week | Topic       | Learning Objective |
 |------|-------------|--------------------|
-| 9    | HTML Basics | Students will be able to write HTML boilerplate code from scratch, structure page content using semantic HTML elements, and create a basic portfolio page with sections, lists, and links.
+| 7    | HTML Basics | Students will be able to write HTML boilerplate code from scratch, structure page content using semantic HTML elements, and create a basic portfolio page with sections, lists, and links.
 
 ## Assignment Rubric
 
