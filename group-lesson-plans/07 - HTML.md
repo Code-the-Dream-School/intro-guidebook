@@ -1,6 +1,6 @@
-# Week 9: HTML Basics – Group Mentor Guide
+# Lesson 7: HTML Basics – Group Mentor Guide
 
-Welcome to Week 9 of the Intro to Programming course! This week, students are learning:
+Welcome to Lesson 7 of the Intro to Programming course! This week, students are learning:
 
 - The history and structure of the web
 - HTML syntax, including elements, tags, and attributes
